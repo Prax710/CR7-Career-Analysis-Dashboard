@@ -1,3 +1,6 @@
+
+CSV file: [Ronaldo dataset.csv](https://github.com/user-attachments/files/19729883/Ronaldo.dataset.csv)
+
 #⚽ CR7-Career-Analysis-Dashboard
 
 This CR7 Career Analysis Dashboard is built using Power BI to visualize and analyze the legendary footballer Cristiano Ronaldo's performance over the years. The dashboard offers interactive and insightful breakdowns of CR7’s career data, allowing users to explore his achievements from multiple perspectives.
@@ -27,3 +30,8 @@ This CR7 Career Analysis Dashboard is built using Power BI to visualize and anal
 - Power BI learners/practitioners
 - Football data projects and storytelling
 
+The dashboard presents complex data in a simple, intuitive, and professional manner, making it ideal for business decision-making. This Project is created By Me and Brother (Abhishek Bakare).
+🔹 Tools Used: Power BI 🔹 Data Source: CR7 Career Analysis dataset
+Feel free to explore, suggest improvements, or contribute! 🚀
+
+https://github.com/user-attachments/assets/f5e5d56c-98f9-4771-8d6a-394f6de73a52
